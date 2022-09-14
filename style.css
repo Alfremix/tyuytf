@@ -1,0 +1,27 @@
+body
+{
+	font-family: 'Acme', sans-serif;
+	text-align: center;
+	background-color: rgb(30, 79, 94);
+	color: rgb(0, 149, 255);
+}
+
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: rgb(53, 198, 255);
+	border-radius: 15px;
+}
+ button{
+	 background-color: rgb(0, 149, 255);
+	 padding: 12px;
+	 font-size: 22px;
+	 border-radius: 15px;
+	 border: 3px solid rgb(0, 108, 155);
+	 font-family: 'Acme', sans-serif;
+	 color: rgb(30, 79, 94);
+ }
